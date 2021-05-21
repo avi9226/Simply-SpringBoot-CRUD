@@ -1,4 +1,4 @@
-# Simply-SpringBoot-CRUD-app
+# Simply_SpringBoot_CRUD
 Create a Spring boot + Hibernate rest API that meets the following conditions
  Create CRUD screens for the below entities and use the APIs as described below to interact between front end and backend.
  Create REST APIs expose CRUD operations on following entities
